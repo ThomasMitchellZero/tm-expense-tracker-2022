@@ -4,6 +4,8 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    color: #000;
+    opacity: 85%;
 }
 
 
@@ -28,6 +30,6 @@
 .expense-date__year{
     font-size: 0.75rem;
     font-weight: 400;
-    color: #000000BF;
     margin: .25rem;
+    opacity: 70%;
 }
